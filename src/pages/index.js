@@ -110,7 +110,7 @@ class IndexPage extends React.Component {
                                         width="100"
                                         y="0"
                                         preserveAspectRatio="none"
-                                    ></image>
+                                    />
                                 </pattern>
                                 <text
                                     fill="url(#wallPattern)"
@@ -133,7 +133,7 @@ class IndexPage extends React.Component {
                             {this.props.data.site.siteMetadata.description}
                         </p>
                         <a href="#portfolio" className="btn">
-                            Til låtene
+                            Tidligere oppdrag
                         </a>
                     </div>
                     <div className="social-buttons">
