@@ -11,7 +11,7 @@ export default function({ data }) {
     return (
         <Layout>
             <SEO
-                lang="en"
+                lang="nb"
                 title={data.markdownRemark.frontmatter.title}
                 description={data.markdownRemark.frontmatter.description}
                 image={data.markdownRemark.frontmatter.image.publicURL}
