@@ -1,11 +1,11 @@
 let siteMetadata = {
-    title: `De Unevnelige`,
+    title: `Danielsen Bygg AS`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `Tomanns poporkester`,
-    description: `Vi har kun ett ydmykt mål for øye: Å gjøre verden til et litt bedre sted. Vi spiller på alle strengene. Samtidig.`,
+    introTag: `Byggefirma i Horten`,
+    description: `Danielsen Bygg ble startet opp i Oktober 2018, av snekkeren Morten Danielsen, fra Horten. Morten har god erfaring med alt som har med snekkerarbeid å gjøre. Selskapet tar på seg jobber som totalrenovering, tilbygg, tak, malejobber, og alt annet snekkerarbeid. `,
     author: `@webmaeistro`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -40,14 +40,14 @@ let siteMetadata = {
         },
         {
             name: "GitHub",
-            url: "https://github.com/webmaeistro/gatsby-starter-elemental"
+            url: "https://github.com/webmaeistro/danielsen-bygg-repo"
         }
     ],
     social: [
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "https://www.facebook.com/DeUnevnelige/"
+            url: "https://www.facebook.com//Danielsenbygghorten/"
         },
         {
             name: "Twitter",
@@ -68,11 +68,10 @@ let siteMetadata = {
     contact: {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "./test.json",
-        description: `De unevnelige er et tomanns poporkester med kun ett ydmykt mål for øye: Å gjøre verden til et litt bedre sted. De spiller på alle strengene. Samtidig.
-        `,
-        mail: "bjorn.olav.tveit@gmail.com",
-        phone: "me.me/DeUnevnlige/",
-        address: "Oslo, Norway"
+        description: `Danielsen Bygg ble startet opp i Oktober 2018, av snekkeren Morten Danielsen, fra Horten. Ta kontakt for gratis befaring!`,
+        mail: "danielsen.bygg@gmail.com",
+        phone: "984 80 400",
+        address: "Horten, Norway"
     }
 };
 
